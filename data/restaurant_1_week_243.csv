@@ -1,0 +1,16 @@
+Order Number,Order Date,Item Name,Quantity,Product Price,Total products
+12875,2019-09-01 19:54:00,Plain Naan,1,2.6,6
+12875,2019-09-01 19:54:00,Plain Rice,1,2.95,6
+12874,2019-09-01 19:17:00,Plain Rice,1,2.95,5
+12875,2019-09-01 19:54:00,Lemon Rice,1,3.95,6
+12873,2019-09-01 18:08:00,Saag Rice,1,3.95,4
+12874,2019-09-01 19:17:00,Prawn Puree,1,4.95,5
+12873,2019-09-01 18:08:00,Chicken Chaat,1,4.95,4
+12875,2019-09-01 19:54:00,Saag Paneer,1,5.95,6
+12874,2019-09-01 19:17:00,Saag Bhajee,1,5.95,5
+12875,2019-09-01 19:54:00,Korma - Chicken,1,8.95,6
+12874,2019-09-01 19:17:00,Bhuna - Chicken Tikka,1,8.95,5
+12874,2019-09-01 19:17:00,Korma - Chicken,1,8.95,5
+12875,2019-09-01 19:54:00,Chicken Chilli Garlic,1,9.95,6
+12873,2019-09-01 18:08:00,Chicken Chilli Garlic,1,9.95,4
+12873,2019-09-01 18:08:00,Lamb Tikka Balti,1,10.95,4
